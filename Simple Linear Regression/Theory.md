@@ -1,7 +1,7 @@
 
 #Simple Linear Regression
 
-Simple linear regression is a statistical method used to establish a linear relationship between a dependent variable and a single independent variable.
+Simple linear regression is a _statistical method_ used to establish a linear relationship between a dependent variable and a single independent variable.
 The method helps in predicting the value of the dependent variable based on the value of the independent variable. 
 The relationship between the two variables is represented by a straight line, which is obtained by minimizing the distance between the data points and the regression line.
 
@@ -17,7 +17,7 @@ The equation of the regression line is given by:
 
 where y is the dependent variable, x is the independent variable, m is the slope, and b is the intercept.
 
-The simple linear regression model assumes that there is a linear relationship between the two variables, 
+The simple linear regression model _assumes that there is a linear relationship between the two variables_, 
 and the errors or residuals are normally distributed with a mean of zero and constant variance. 
 The model is often used in various fields such as finance, economics, engineering, and social sciences.
 
