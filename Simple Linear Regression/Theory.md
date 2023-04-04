@@ -1,5 +1,5 @@
 
-#Simple Linear Regression
+# **Simple Linear Regression**
 
 Simple linear regression is a _statistical method_ used to establish a linear relationship between a dependent variable and a single independent variable.
 The method helps in predicting the value of the dependent variable based on the value of the independent variable. 
@@ -13,7 +13,7 @@ the value of the dependent variable when the independent variable is zero.
 
 The equation of the regression line is given by:
 
-**y = mx + b**
+### ****y = mx + b****
 
 where y is the dependent variable, x is the independent variable, m is the slope, and b is the intercept.
 
