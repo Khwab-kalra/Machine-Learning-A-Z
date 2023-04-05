@@ -1,6 +1,7 @@
 
 # Multilinear Regression
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 Multilinear regression is a statistical method used to model the relationship between multiple independent variables and a single dependent variable. In other words, it is a technique that allows us to predict the value of a dependent variable based on several independent variables. Multilinear regression is a powerful tool for data analysis and prediction, and it is widely used in various fields, including economics, finance, engineering, and social sciences.
 
