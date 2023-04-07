@@ -1,5 +1,5 @@
 
-#Support Vector Regression (SVR)
+# Support Vector Regression (SVR)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Support Vector Regression (SVR) is a machine learning algorithm used for regression analysis. It is a type of Support Vector Machine (SVM) that uses the same basic principles of SVM but is designed to perform regression instead of classification.
 
