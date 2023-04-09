@@ -14,4 +14,4 @@ Decision tree regression has several advantages over other regression algorithms
 ### Limitations
 However, decision tree regression also has some limitations. It can be prone to overfitting, especially if the tree is allowed to grow too deep or if the data contains noise or outliers. To mitigate overfitting, techniques such as pruning, ensemble methods, and regularization can be used. Additionally, decision tree regression can have poor generalization performance if the training data is not representative of the test data.
 
-In summary, decision tree regression is a powerful and interpretable regression algorithm that can handle both categorical and numerical data and capture non-linear relationships. However, it requires** careful tuning to avoid overfitting and ensure good generalization performance.**
+In summary, decision tree regression is a powerful and interpretable regression algorithm that can handle both categorical and numerical data and capture non-linear relationships. However, it requires **careful tuning to avoid overfitting and ensure good generalization performance.**
