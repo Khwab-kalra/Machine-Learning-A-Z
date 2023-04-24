@@ -1,4 +1,4 @@
-#Random Forest Classification
+# Random Forest Classification
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Random forest classification is a machine learning technique that is based on the concept of an ensemble of decision trees. It is a popular algorithm for classification problems due to its high accuracy and ability to handle high-dimensional data.
